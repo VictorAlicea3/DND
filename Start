@@ -9,6 +9,14 @@ using namespace std;
 int main()
 {
 
-  cout << "Welcome Players";
+  cout << "Welcome Players, ";
+  cout << "to vast and unimaginable heights, you will triumph over those that stand in your way,"; 
+  cout << "face dangers beyond comprhension, to even the greatest of minds";
+  cout << "and build friendships, trust, and gain glory as you stive forward on your quest,";
+  cout << "to become a living God. ";
+  
+  cout << "Which ever path you chose, may be the path of righteousness or the path of true malice, ";
+  cout << "let your heart and soul guide you. ";
+  cout << "but be forwarned, your path for valor, strength and knowledge will come with a price.";
   return 0;
 }
